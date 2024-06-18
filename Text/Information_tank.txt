@@ -1,0 +1,5 @@
+STT|Tank live index|Tank damage index|Tank speed index
+STT|Tli|Tdi|Tsi
+001|001|001|-02
+002|001|-02|001
+003|003|002|-03
